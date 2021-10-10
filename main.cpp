@@ -8,5 +8,6 @@ int main()
   cout << "New edit by manager.";
   cout << "Added new feature.";
   cout << "Development feature added.";
+  cout << "Production release added.";
   return 0;
 }
