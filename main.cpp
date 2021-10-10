@@ -7,6 +7,9 @@ int main()
   cout << "New edit by collaborator.";
   cout << "New edit by manager.";
   cout << "Added new feature.";
+<<<<<<< HEAD
   cout << "Development feature added.";
+=======
+>>>>>>> master
   return 0;
 }
